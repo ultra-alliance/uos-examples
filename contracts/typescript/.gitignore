@@ -1,0 +1,14 @@
+artifacts/
+node_modules/
+.env
+cache/
+typegen/
+logs
+*.log
+dist/
+build/
+.DS_Store
+package-lock.json
+yarn.lock
+coverage/
+*.swp

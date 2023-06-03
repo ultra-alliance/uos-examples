@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "dependencies": {
+    "@ultra-alliance/ultradev": "file:./../../ultra-dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
