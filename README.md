@@ -28,7 +28,11 @@ This repository is organized into separate directories, each containing a boiler
 
 ### C++ Smart Contracts
 
-For developing EOSIO based smart contracts on the Ultra Blockchain using C++.
+For developing EOSIO based smart contracts on the Ultra Blockchain using
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 Test your contracts in:
 - [JavaScript](/README.md)
 - [TypeScript](/README.md)

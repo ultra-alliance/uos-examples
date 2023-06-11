@@ -7,6 +7,5 @@ Try running some of the following tasks:
 ```shell
     npx ultradev help
     npx ultradev test
-    npx ultradev node
     npx ultradev run scripts/sign.ts
 ```
