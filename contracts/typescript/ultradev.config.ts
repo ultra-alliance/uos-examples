@@ -1,9 +1,9 @@
-import { tUltraDevConfig } from "@ultra-alliance/ultradev";
+import { UltraDevConfig } from "@ultra-alliance/ultradev";
 
 const ALICE_PRIVATE_KEY = String(process.env.ALICE_PRIVATE_KEY);
 const ALICE_ACCOUNT_NAME = String(process.env.ALICE_ACCOUNT_NAME);
 
-const config: tUltraDevConfig = {
+const config: UltraDevConfig = {
   network: {
     rpcEndpoint: "http://127.0.0.1:8888",
     signer: {
